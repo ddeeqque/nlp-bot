@@ -1,0 +1,21 @@
+NLU — Natural Language Understanding
+ASR — Automatic Speach Recognition
+Модули машинного обучения python написаны на быстрых языках, поэтому это идеальное решение.
+
+# Обработка ввода
+- intent classification
+	- intent extraction
+- fact extraction
+	- object extraction
+	- slot-filling
+	- Named Entity Recognition
+- spelling correction
+- сентимент-анализ (анализ тональности, определеяем эмоцию)
+- классификация по темам
+
+# генерация вывода
+- заготовленные реплики
+- автоматическая генерация реплик по контексту
+- синтез речи (любой голосовой ассистент — чат бот, обернутый в системы распознавания/генерации речи)
+
+
